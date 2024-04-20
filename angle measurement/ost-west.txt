@@ -1,0 +1,4 @@
+#This measurement was made in a bad environment and contradict the theoretical physics behind Myons
+#direction    CH0 CH1 CH2 Ch3   trigger
+#east    1.902   9.503   24.364  5.262   0.074
+#west    2.16    8.66    23.82   5.28    0.054
