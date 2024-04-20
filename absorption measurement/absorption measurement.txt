@@ -1,0 +1,8 @@
+#material   trigger
+without    1.199
+wood    1.215
+plumb(30kg)    1.2
+2 layers plumb(60kg) 1.030
+Human  1.115
+2 layers concrete	1.139
+4 layers concrete	1.133
